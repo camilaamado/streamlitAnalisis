@@ -1,6 +1,6 @@
-## Análisis de Tópicos y Sentimientos de una base de datos de tweets
+# Análisis de Tópicos y Sentimientos de una base de datos de tweets
 
-# Exploración interactiva del análisis de sentimientos en tweets sobre depresión
+## Exploración interactiva del análisis de sentimientos en tweets sobre depresión
 
 Esta aplicación permite explorar de manera interactiva el análisis de sentimientos en tweets relacionados con la depresión.
 A continuación, se presenta un análisis exploratorio de una base de datos descargada de la plataforma Kaggle, en el que se examinan los principales temas abordados en los tweets.
